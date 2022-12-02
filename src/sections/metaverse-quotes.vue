@@ -2,11 +2,13 @@
   <section class="metaverse-quotes">
     <metaverse-page>
       <div>
-        <h2>Will the metaverse fundamentally change what it means to be human?</h2>
+        <h2>Will the metaverse fundamentally change <br>
+          what it means to be human?</h2>
 
-        <v-carousel>
+        <v-carousel
+            hide-delimiter-background>
           <v-carousel-item>
-            <p>Lorem ipseum </p>
+            <p>Lorem ipseum</p>
           </v-carousel-item>
         </v-carousel>
       </div>
@@ -18,13 +20,21 @@
 <script>
 import MetaversePage from "../components/metaverse-page.vue";
 export default {
-  name: "metaverse-quotes.vue",
-  components: {MetaversePage}
+  name: "metaverse-quotes",
+  components: {
+    MetaversePage
+  }
 }
 </script>
 
 <style lang="scss" scoped>
 .metaverse-quotes {
-  text-align: center;
+
+  p {
+    text-align: center;
+    font-size: 36pt;
+    display: block;
+    margin: 10vh auto;
+  }
 }
 </style>

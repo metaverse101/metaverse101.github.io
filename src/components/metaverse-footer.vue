@@ -11,8 +11,11 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import "../styles/_base.scss";
+
 .metaverse-footer {
   width: 100%;
-  background-color: #BBDEFB;
+  height: 5vh;
+  background-color: $metaverse-footer-color;
 }
 </style>

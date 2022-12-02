@@ -2,9 +2,9 @@
   <section class="metaverse-title">
     <metaverse-page>
       <div class="metaverse-title__text">
-        <span class="text-h3">The metaverse doesn’t exist yet.</span> <br>
-        <span class="text-h3">Here’s why you still need to care</span>
-        <img class="metaverse-title__image mt-10" src="../assets/placeholder.png" />
+        <h1>The metaverse doesn’t exist yet.</h1>
+        <h1>Here’s why you still need to care</h1>
+        <img class="metaverse-title__image mt-10" src="../../public/placeholder.png" />
       </div>
 
       <span class="metaverse-title__text">

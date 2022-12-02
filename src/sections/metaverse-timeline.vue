@@ -1,12 +1,8 @@
 <template>
   <section class="metaverse-timeline">
     <metaverse-page>
-      <span class="text-h2">
-        TIMELINE
-      </span> <br>
-      <span class="text-h3">
-        The History and Development of the Metaverse
-      </span>
+      <h1>TIMELINE</h1> <br>
+      <h2>The History and Development of the Metaverse</h2>
 
       <div class="metaverse-timeline__frame">
         <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&font=Default&lang=en&initial_zoom=2&height=100%" />
@@ -29,6 +25,8 @@ export default {
 <style lang="scss" scoped>
 .metaverse-timeline {
   &__frame {
+    margin: 5% 0;
+
     iframe {
       width: 100%;
       height: 500px;

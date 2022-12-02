@@ -1,0 +1,20 @@
+@import "_variables.scss";
+
+body {
+  font-family: 'Raleway', serif;
+  color: $metaverse-font-color;
+}
+
+h1 {
+  font-size: $metaverse-h1-size;
+  margin: unset;
+}
+
+h2 {
+  font-size: $metaverse-h1-size;
+  font-weight: 200;
+}
+
+p {
+  font-size: $metaverse-text-size;
+}

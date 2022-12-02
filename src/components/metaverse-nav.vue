@@ -1,9 +1,9 @@
 <template>
-  <div class="metaverse-nav elevation-5">
+  <div class="metaverse-nav">
     <v-btn
         class="metaverse-nav__top"
         icon="mdi-menu-up"
-        color="blue"
+        color="grey"
         href="#app"
     />
 
@@ -39,9 +39,11 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import "../styles/_base.scss";
+
 .metaverse-nav {
   z-index: 1;
-  background-color: #BBDEFB;
+  background-color: $metaverse-nav-color;
   position: fixed;
   top: 0;
   min-width: 100%;

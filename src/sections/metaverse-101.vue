@@ -2,7 +2,7 @@
   <section class="metaverse-101">
     <metaverse-page>
       <div>
-        <span class="text-h2 mb-4">METAVERSE 101</span>
+        <h1>METAVERSE 101</h1>
 
         <span class="mt-10">
           <p>
@@ -81,7 +81,7 @@ export default {
 <style lang="scss" scoped>
 .metaverse-101 {
   p {
-    padding: 5vh 0;
+    padding: 2% 0;
   }
 }
 </style>
