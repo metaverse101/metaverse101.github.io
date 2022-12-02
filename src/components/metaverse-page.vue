@@ -12,8 +12,7 @@ export default {
 
 <style scoped>
 .metaverse-page {
-  height: 90vh;
   display: block;
-  margin: 5vw;
+  margin: 20vh 5vw;
 }
 </style>

@@ -12,6 +12,7 @@
     "@mdi/font": "5.9.55",
     "aos": "^2.3.4",
     "roboto-fontface": "*",
+    "sass": "^1.56.1",
     "vue": "^3.2.41",
     "vuetify": "npm:@vuetify/nightly@next",
     "webfontloader": "^1.0.0"
