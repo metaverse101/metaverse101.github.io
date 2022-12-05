@@ -3,7 +3,7 @@
     <v-btn
         class="metaverse-nav__top"
         icon="mdi-menu-up"
-        color="grey"
+        color="purple"
         href="#app"
     />
 
@@ -26,11 +26,11 @@ export default {
       items: [
         {
           title: "Metaverse",
-          route: '/'
+          route: '/metaverse/'
         },
         {
           title: "About",
-          route: '/about'
+          route: '/metaverse/about'
         }
       ]
     }
@@ -50,7 +50,7 @@ export default {
 
   a {
     font-size: 18pt;
-    color: black;
+    color: $metaverse-font-color;
     display: block;
     text-align: center;
     text-decoration: none;
