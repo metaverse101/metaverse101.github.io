@@ -12,7 +12,10 @@ export default {
 
 <style scoped>
 .metaverse-page {
+  background-color: white;
   display: block;
-  margin: 5%;
+  border-radius: 10px;
+  padding: 5%;
+  margin: 1% 20%;
 }
 </style>

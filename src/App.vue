@@ -29,6 +29,7 @@ export default {
 @import './styles/_base.scss';
 
 body {
-  background-color: $metaverse-bg-color;
+  background-image: url("../public/space.jpeg");
+  background-size: cover;
 }
 </style>

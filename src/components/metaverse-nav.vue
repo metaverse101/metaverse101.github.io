@@ -25,8 +25,12 @@ export default {
     return {
       items: [
         {
-          title: "Metaverse",
+          title: "Home",
           route: '/metaverse/'
+        },
+        {
+          title: "Sections",
+          route: ''
         },
         {
           title: "About",
@@ -43,14 +47,14 @@ export default {
 
 .metaverse-nav {
   z-index: 1;
-  background-color: $metaverse-nav-color;
+  background-image: $metaverse-nav-color;
   position: fixed;
   top: 0;
   min-width: 100%;
 
   a {
     font-size: 18pt;
-    color: $metaverse-font-color;
+    color: white;
     display: block;
     text-align: center;
     text-decoration: none;

@@ -1,18 +1,13 @@
 <template xmlns="http://www.w3.org/1999/html">
   <section class="metaverse-title">
-    <metaverse-page>
-      <div class="metaverse-title__text">
-        <h1>The metaverse doesn’t exist yet.</h1>
-        <h1>Here’s why you still need to care</h1>
-        <img class="metaverse-title__image mt-10" src="../../public/placeholder.png" />
-      </div>
-
-      <span class="metaverse-title__text">
-        <p>Lorem ipsum dolor sit amet consectetur. Vel etiam nam urna lectus nisl id suscipit rhoncus pulvinar.
-          Egestas ac orci sed blandit diam non libero viverra faucibus. Netus tincidunt lobortis at felis.
-          Arcu integer dignissim nec nisl.</p>
+      <div class="metaverse-title__header">
+        <h1>THE METAVERSE</h1>
+        <h2>It doesn’t exist yet. <br>
+          Here’s why you still need to care</h2>
+        <span class="metaverse-title__text">
+          <p>A special report by Pavi Rajesh</p>
       </span>
-    </metaverse-page>
+      </div>
   </section>
 </template>
 
@@ -29,6 +24,22 @@ export default {
 
 <style lang="scss" scoped>
 .metaverse-title {
+  font-family: "Zen Dots", sans-serif;
+  text-align: center;
+  color: white;
+
+  &__header {
+    h1 {
+      font-size: 64pt;
+    }
+
+    h1, h2 {
+      color: white
+    }
+
+    display: block;
+    margin: 5% 20%;
+  }
 
   &__image {
     width: 100%;
@@ -37,6 +48,7 @@ export default {
 
   &__text {
     span {
+      color: white;
       margin: 10px 0;
     }
   }
