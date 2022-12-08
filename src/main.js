@@ -31,14 +31,10 @@ const routes = [
     { path: '/metaverse/meet-the-experts/', component: metaverseMeetTheExperts },
 ]
 
-// 3. Create the router instance and pass the `routes` option
-// You can pass in additional options here, but let's
-// keep it simple for now.
 const router = createRouter({
-    // 4. Provide the history implementation to use. We are using the hash history for simplicity here.
-    history: createWebHistory(),
-    routes, // short for `routes: routes`
-})
+    history: createWebHistory("/metaverse/"),
+    routes,
+});
 
 const app = createApp(App);
 
