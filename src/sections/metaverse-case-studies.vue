@@ -3,7 +3,7 @@
     <metaverse-page>
       <div>
         <h1>CASE STUDIES</h1>
-        <div class="d-flex flex-column">
+        <div class="d-flex flex-row">
           <v-card class="ma-5" :width="cardWidth">
             <img src="../../public/placeholder.png" />
             <v-card-title>Interpersonal Relationships</v-card-title>
@@ -15,7 +15,7 @@
             </v-card-text>
 
             <v-card-actions>
-              <v-btn>Read More</v-btn>
+              <v-btn href="/metaverse/interpersonal-relationships">Read More</v-btn>
             </v-card-actions>
           </v-card>
 
@@ -29,7 +29,7 @@
               pain by immersing her in a computer-generated beach and soothing her with vocal guidance.
             </v-card-text>
             <v-card-actions>
-              <v-btn>Read More</v-btn>
+              <v-btn href="/metaverse/health-case">Read More</v-btn>
             </v-card-actions>
           </v-card>
 
@@ -43,7 +43,7 @@
               world was common enough.
             </v-card-text>
             <v-card-actions>
-              <v-btn>Read More</v-btn>
+              <v-btn href="/metaverse/entertainment">Read More</v-btn>
             </v-card-actions>
           </v-card>
         </div>

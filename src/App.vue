@@ -2,6 +2,7 @@
   <div id="app">
     <metaverse-nav />
     <router-view />
+    <metaverse-footer />
   </div>
 </template>
 

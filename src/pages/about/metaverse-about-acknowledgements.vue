@@ -35,6 +35,9 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
+@import "../../styles/_base.scss";
 
+.metaverse-about-acknowledgements {
+}
 </style>

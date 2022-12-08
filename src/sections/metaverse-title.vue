@@ -6,6 +6,9 @@
           Here’s why you still need to care</h2>
         <span class="metaverse-title__text">
           <p>A special report by Pavi Rajesh</p>
+          <p class="metaverse-title__subtitle"> Curious about the metaverse? I don't blame you; the word is thrown around in several conversations, but few
+          people know exactly what they are talking about. Scroll down and learn a little bit about this powerful - yet,
+          futuristic - system, including where it came from, how it works and how it will play out in different environments.</p>
       </span>
       </div>
   </section>
@@ -51,6 +54,10 @@ export default {
       color: white;
       margin: 10px 0;
     }
+  }
+
+  &__subtitle {
+    font-family: 'Roboto Condensed', sans-serif;
   }
 }
 

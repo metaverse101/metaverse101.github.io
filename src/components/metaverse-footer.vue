@@ -1,6 +1,6 @@
 <template>
   <div class="metaverse-footer">
-    <p>2022</p>
+    <p>Pavithra Rajesh ⓒ 2022</p>
   </div>
 </template>
 
@@ -15,7 +15,11 @@ export default {
 
 .metaverse-footer {
   width: 100%;
-  height: 5vh;
-  background-color: $metaverse-footer-color;
+  background-color: black;
+
+  p {
+    text-align: center;
+    color: white;
+  }
 }
 </style>

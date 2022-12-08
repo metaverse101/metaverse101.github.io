@@ -2,7 +2,6 @@
   <section class="metaverse-101">
     <metaverse-page>
       <div>
-        <p> insert introduction text here</p>
         <h1>METAVERSE 101</h1>
 
         <span class="mt-10">
