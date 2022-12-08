@@ -32,7 +32,7 @@ const routes = [
 ]
 
 const router = createRouter({
-    history: createWebHistory("/metaverse/"),
+    history: createWebHistory(),
     routes,
 });
 

@@ -11,12 +11,4 @@ export default defineConfig({
       vue(),
       vuetify({ autoImport: true }),
   ],
-    resolve: {
-        alias: {
-            "@": resolve(__dirname, "src"),
-        },
-    },
-    server: {
-        open: true,
-    },
 })
