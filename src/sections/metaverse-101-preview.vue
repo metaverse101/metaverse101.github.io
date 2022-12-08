@@ -31,7 +31,7 @@
           </p>
         </span>
 
-        <v-btn href="/metaverse/101/" class="mt-10">
+        <v-btn to="/101/" class="mt-10">
           Read More
         </v-btn>
       </div>

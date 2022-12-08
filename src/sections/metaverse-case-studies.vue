@@ -15,7 +15,7 @@
             </v-card-text>
 
             <v-card-actions>
-              <v-btn href="/metaverse/interpersonal-relationships">Read More</v-btn>
+              <v-btn to="/interpersonal-relationships/">Read More</v-btn>
             </v-card-actions>
           </v-card>
 
@@ -29,7 +29,7 @@
               pain by immersing her in a computer-generated beach and soothing her with vocal guidance.
             </v-card-text>
             <v-card-actions>
-              <v-btn href="/metaverse/health-case">Read More</v-btn>
+              <v-btn to="/health-case">Read More</v-btn>
             </v-card-actions>
           </v-card>
 
@@ -43,7 +43,7 @@
               world was common enough.
             </v-card-text>
             <v-card-actions>
-              <v-btn href="/metaverse/entertainment">Read More</v-btn>
+              <v-btn to="/entertainment/">Read More</v-btn>
             </v-card-actions>
           </v-card>
         </div>
