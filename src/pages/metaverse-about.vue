@@ -3,7 +3,7 @@
     <metaverse-page>
       <div>
         <h1>About</h1>
-        <img class="metaverse-about__image mt-10" src="../../public/pavi-headshot.JPG" />
+        <img class="metaverse-about__image mt-10" src="../../public/pavi-headshot.jpeg" />
       </div>
 
       <span class="metaverse-about__text">
