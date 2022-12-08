@@ -10,22 +10,22 @@
     <div class="metaverse-nav__banner ">
       <ul>
         <li>
-          <a href="/metaverse/">Home</a>
+          <router-link to="/">Home</router-link>
         </li>
         <li
             @mouseover="dropdown = true"
             @mouseleave="dropdown = false">
           <p>Sections</p>
           <div class="metaverse-nav__dropdown" v-if="dropdown">
-            <a href="/metaverse/101/">METAVERSE 101</a>
-            <a href="/metaverse/interpersonal-relationships/">Case Study #1: Interpersonal Relationships</a>
-            <a href="/metaverse/health-care/">Case Study #2: Health Care</a>
-            <a href="/metaverse/entertainment/">Case Study #3: Gaming and Entertainment</a>
-            <a href="/metaverse/meet-the-experts/">Meet the Experts</a>
+            <router-link to="/101/">METAVERSE 101</router-link>
+            <router-link to="/interpersonal-relationships/">Case Study #1: Interpersonal Relationships</router-link>
+            <router-link to="/health-care/">Case Study #2: Health Care</router-link>
+            <router-link to="/entertainment/">Case Study #3: Gaming and Entertainment</router-link>
+            <router-link to="meet-the-experts/">Meet the Experts</router-link>
           </div>
         </li>
         <li>
-          <a href="/metaverse/about/">About</a>
+          <router-link to="/about/">About</router-link>
         </li>
       </ul>
     </div>
