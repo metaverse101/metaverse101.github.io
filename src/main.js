@@ -23,12 +23,12 @@ import {
 // We'll talk about nested routes later.
 const routes = [
     { path: '/metaverse/', component: metaverseHome },
-    { path: '/metaverse/about', component: metaverseAbout },
-    { path: '/metaverse/101', component: metaverse101Article },
-    { path: '/metaverse/interpersonal-relationships', component: metaverseInterpersonalRelationships },
-    { path: '/metaverse/health-case', component: metaverseHealthCase },
-    { path: '/metaverse/entertainment', component: metaverseEntertainment },
-    { path: '/metaverse/meet-the-experts', component: metaverseMeetTheExperts },
+    { path: '/metaverse/about/', component: metaverseAbout },
+    { path: '/metaverse/101/', component: metaverse101Article },
+    { path: '/metaverse/interpersonal-relationships/', component: metaverseInterpersonalRelationships },
+    { path: '/metaverse/health-case/', component: metaverseHealthCase },
+    { path: '/metaverse/entertainment/', component: metaverseEntertainment },
+    { path: '/metaverse/meet-the-experts/', component: metaverseMeetTheExperts },
 ]
 
 // 3. Create the router instance and pass the `routes` option

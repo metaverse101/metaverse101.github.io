@@ -17,15 +17,15 @@
             @mouseleave="dropdown = false">
           <p>Sections</p>
           <div class="metaverse-nav__dropdown" v-if="dropdown">
-            <a href="/metaverse/101">METAVERSE 101</a>
-            <a href="/metaverse/interpersonal-relationships">Case Study #1: Interpersonal Relationships</a>
-            <a href="/metaverse/health-care">Case Study #2: Health Care</a>
-            <a href="/metaverse/entertainment">Case Study #3: Gaming and Entertainment</a>
-            <a href="/metaverse/meet-the-experts">Meet the Experts</a>
+            <a href="/metaverse/101/">METAVERSE 101</a>
+            <a href="/metaverse/interpersonal-relationships/">Case Study #1: Interpersonal Relationships</a>
+            <a href="/metaverse/health-care/">Case Study #2: Health Care</a>
+            <a href="/metaverse/entertainment/">Case Study #3: Gaming and Entertainment</a>
+            <a href="/metaverse/meet-the-experts/">Meet the Experts</a>
           </div>
         </li>
         <li>
-          <a href="/metaverse/about">About</a>
+          <a href="/metaverse/about/">About</a>
         </li>
       </ul>
     </div>
