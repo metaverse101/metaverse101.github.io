@@ -54,7 +54,7 @@
 
       <p>
         <strong>Nadew Mezgebu:</strong> Nadew Mezgebu is the chief technology officer of Key to Amaze VR in Boston, a virtual
-        reality gaming center. Learn more about <a>Key to Amaze VR.</a>
+        reality gaming center. Learn more about <a href="https://www.keytoamaze.com/">Key to Amaze VR.</a>
       </p>
 
       <p>

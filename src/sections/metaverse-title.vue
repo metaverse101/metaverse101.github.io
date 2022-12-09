@@ -36,7 +36,6 @@ export default {
     h1, h2 {
       color: white
     }
-
     display: block;
     margin: 5% 20%;
   }

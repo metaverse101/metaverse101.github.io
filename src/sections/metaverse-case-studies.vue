@@ -33,7 +33,7 @@
               pain by immersing her in a computer-generated beach and soothing her with vocal guidance.
             </v-card-text>
             <v-card-actions>
-              <v-btn to="/health-case">Read More</v-btn>
+              <v-btn to="/health-care/">Read More</v-btn>
             </v-card-actions>
           </v-card>
 
