@@ -2,7 +2,8 @@
   <section class="metaverse-101-article">
     <metaverse-page>
       <div>
-        <h1>METAVERSE 101</h1>
+        <h1>The metaverse: <br>
+        Bringing down the fourth wall of technology</h1>
 
         <span class="mt-10">
           <p>
@@ -308,6 +309,9 @@ export default {
 
 <style lang="scss" scoped>
 .metaverse-101-article {
+  h2 {
+    font-size: 24pt;
+  }
   p {
     padding: 2% 0;
   }

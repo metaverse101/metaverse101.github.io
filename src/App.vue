@@ -30,7 +30,7 @@ export default {
 @import './styles/_base.scss';
 
 body {
-  background-image: url("../public/space.jpeg");
+  background-image: url("../public/space.jpg");
   background-size: cover;
 }
 </style>

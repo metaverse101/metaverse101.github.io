@@ -97,6 +97,11 @@
       an iPad that mirrors the experience.
     </p>
 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/TsA_5ZF4gp4"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+
     <p>
       Through UbiSim, nurses can practice managing situations which rarely occur but they must still be prepared for. The
       virtual patient can be made to exhibit the real symptoms of postpartum hemorrhage, for example, which allows nurses

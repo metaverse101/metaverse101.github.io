@@ -26,7 +26,7 @@ const routes = [
     { path: '/about/', component: metaverseAbout },
     { path: '/101/', component: metaverse101Article },
     { path: '/interpersonal-relationships/', component: metaverseInterpersonalRelationships },
-    { path: '/health-case/', component: metaverseHealthCase },
+    { path: '/health-care/', component: metaverseHealthCase },
     { path: '/entertainment/', component: metaverseEntertainment },
     { path: '/meet-the-experts/', component: metaverseMeetTheExperts },
 ]
@@ -34,6 +34,10 @@ const routes = [
 const router = createRouter({
     history: createWebHashHistory(),
     routes,
+    scrollBehavior(to, from, savedPosition) {
+        // always scroll to top
+        return { top: 0 }
+    },
 });
 
 const app = createApp(App);

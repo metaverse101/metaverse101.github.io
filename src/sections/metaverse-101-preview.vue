@@ -2,7 +2,8 @@
   <section class="metaverse-101">
     <metaverse-page>
       <div>
-        <h1>METAVERSE 101</h1>
+        <h1>The metaverse: <br>
+          Bringing down the fourth wall of technology</h1>
 
         <span class="mt-10">
           <p>
@@ -31,7 +32,7 @@
           </p>
         </span>
 
-        <v-btn to="/101/" class="mt-10">
+        <v-btn to="/101/">
           Read More
         </v-btn>
       </div>

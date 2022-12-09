@@ -2,11 +2,11 @@ const quotes = [
     {
         author: 'Ewan Johnson',
         occupation: 'Founder of Arcturus',
-        text: "I do think it is going to fundamentally change it, I think it’s going to fundamentally change it because we " +
-            "are spatial beings and we exist in a three dimensional world, and what this opportunity provides us is the " +
+        text: "I do think it is going to fundamentally change it, I think it’s going to fundamentally change it because" +
+            " we are spatial beings and we exist in a three dimensional world. What this opportunity provides us is the " +
             "ability to move into that world in a way that becomes natural for people. Metaverse platforms, spatial platforms" +
             " offer this enormous opportunity where commerce, socialization and entertainment all blend together. But I am " +
-            "also a bit weary and curious about how we keep something from not being a false trumpet."
+            "also a bit weary and curious about how we keep it from not being a false trumpet"
     },
     {
         author: 'David Nelson',
@@ -25,12 +25,11 @@ const quotes = [
     {
         author: 'Jane Thomason',
         occupation: 'thought leader in technology for social impact',
-        text: "No, I don’t. I think, at our core, we’re humans. We will need human interaction, human touch. We will " +
-            "need to eat, we will need to do all of the things that humans need. What the metaverse can potentially do" +
-            " is extend our world in positive - well, I’m optimistic - ways. But ultimately, we’re all still going to " +
-            "be people living on this earth, eating and sleeping and defecating and urinating. You can’t give away any" +
-            " of that, that is what we are. The metaverse can help us, maybe, lead our best lives, but it’s never going" +
-            " to stop the fact that we’re human"
+        text: "No, I don’t. I think, at our core, we’re humans. We will need human interaction, human touch. We will need" +
+            " to eat, we will need to do all of the things that humans need. What the metaverse can potentially do is extend " +
+            "our world in positive - well, I’m optimistic - ways. But ultimately, we’re all still going to be people living on" +
+            " this earth, eating and sleeping and defecating and urinating. You can’t give away any of that, that is what we are." +
+            " The metaverse can help us lead our best lives, but it’s never going to stop the fact that we’re human."
     },
     {
         author: 'Thomas Logan',
@@ -42,13 +41,12 @@ const quotes = [
     {
         author: 'Andrea Stevenson Won',
         occupation: 'Professor of Communication at Cornell University',
-        text: "What is ‘being human,’ right? One way we can think about it is that people are social. It’s a key " +
-            "characteristic of human beings. We conduct important social relationships, in part, through media. We " +
-            "maintain social relationships over distance and we come up with all these substitute ways to enhance " +
-            "social relationships. I would say having other ways to do that is building on a human characteristic " +
-            "that we already have, which is cool and interesting. I just would hate to see it build another human " +
-            "characteristic which I think is bad, which is to get too detached from the physical world, from the " +
-            "natural world. I don’t think that’s an inhuman characteristic, I think it’s a human weakness, to live too virtually."
+        text: "What is ‘being human,’ right? One way we can think about it is that people are social. It’s a key characteristic" +
+            " of human beings. We conduct important social relationships, in part, through media. We maintain social relationships" +
+            " over distance and we come up with all these substitute ways to enhance social relationships. Having other ways to do" +
+            " that is building on a human characteristic that we already have, which is cool and interesting. I just would hate to" +
+            " see us get too detached from the physical world, from the natural world. I don’t think that’s an inhuman characteristic," +
+            " I think it’s a human weakness, to live too virtually."
     },
     {
         author: 'Eileen McGivney',
@@ -67,28 +65,27 @@ const quotes = [
     {
         author: 'Petr Tolochkov',
         occupation: 'CEO of Medverse',
-        text: "I think it will change human behavior and some parts of our lives, like integration of the internet or " +
-            "integration of social media. Of course, any change has some challenges, some troubles. As we see with social" +
-            " media and the internet, they have problems and very good sides of it. The metaverse is also going to have both.",
+        text: "I think it will change human behavior and some parts of our lives, like the integration of the internet or " +
+            "the integration of social media. Of course, any change has some challenges, some troubles. As we see with social " +
+            "media and the internet, they have problems and very good sides of it. The metaverse is also going to have both.",
     },
     {
         author: 'Jeffrey Jacobson',
         occupation: 'XR Lead of Boston Children’s Hospital',
-        text: "It won’t change what it means to be human. It will just give us more freedom of expression. It will change" +
-            " what it means to be human in the sense that it’ll give us virtual bodies that we can play with, that’s the " +
-            "closest I’ll come to that. People in virtual reality very easily take on different bodies, different genders," +
-            " different species, whatever. That could have a profound effect on our social revolution.",
+        text: "It will just give us more freedom of expression. It will change what it means to be human in the sense that" +
+            " it’ll give us virtual bodies that we can play with, that’s the closest I’ll come to that. People in virtual" +
+            " reality very easily take on different bodies, different genders, different species, whatever. That could have" +
+            " a profound effect on our social revolution.",
     },
     {
         author: 'Dan Novy',
         occupation: 'Professor of Emerging Media Arts at the University of Nebraska',
-        text: "I think, because it is human created, it will give us abilities that we do not currently have. With " +
-            "technology, we just give ourselves superpowers, and that’s what the metaverse is going to do. It’s not " +
-            "going to make us superhuman, but it is going to give us abilities and superpowers, ways of doing things " +
-            "that simply did not exist before, ways of doing things faster or better or have access to more information" +
-            " more quickly. The same way that having a planner did, that having a calendar application and having email" +
-            " did, you’re going to offload a lot of the requirements of what’s going on in your very limited human brain" +
-            " and you’re going to put that out into some sort of metaverse.",
+        text: "I think, because it is human created, it will give us abilities that we do not currently have. With technology," +
+            " we just give ourselves superpowers and that’s what the metaverse is going to do. It’s not going to make us superhuman," +
+            " but it is going to give us abilities and superpowers, ways of doing things that simply did not exist before, ways of" +
+            " doing things faster or better or have access to more information more quickly - the same way that having a planner did," +
+            " that having a calendar application and having email did. You’re going to offload a lot of the requirements of what’s" +
+            " going on in your very limited human brain and you’re going to put that out into some sort of metaverse.",
     },
     {
         author: 'William Ferraro',
@@ -100,13 +97,12 @@ const quotes = [
     {
         author: 'Cody Woputz',
         occupation: 'Founder of ThrowbackVR',
-        text: "You think about your reality more after coming back to you, and I think that is still true of virtual " +
-            "reality now. People are having incredible experiences, but I still think I love ‘in real life’ the most. " +
-            "I hope that continues. I think the value is coming back and paying attention to the difference. By paying" +
-            " attention to your awareness and your perception of the world, you start to notice things. I think one of" +
-            " the biggest values of the metaverse, of where a lot more immersive technology is going, more people will" +
-            " pay attention to that difference and start to think about their own reality and virtual reality and the " +
-            "value that lies between that.",
+        text: "You think about your reality more after coming back to you and I think that is still true of virtual reality" +
+            " now. People are having incredible experiences, but I still think I love ‘in real life’ the most. I hope that" +
+            " continues. I think the value is coming back and paying attention to the difference. By paying attention to" +
+            " your awareness and your perception of the world, you start to notice things. I think one of the biggest values" +
+            " of the metaverse - where a lot more immersive technology is going - is that more people will pay attention to" +
+            " that difference and start to think about their own reality and virtual reality and the value that lies between that.",
     },
 ];
 

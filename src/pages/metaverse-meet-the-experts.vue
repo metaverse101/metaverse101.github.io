@@ -53,6 +53,11 @@
       </p>
 
       <p>
+        <strong>Nadew Mezgebu:</strong> Nadew Mezgebu is the chief technology officer of Key to Amaze VR in Boston, a virtual
+        reality gaming center. Learn more about <a>Key to Amaze VR.</a>
+      </p>
+
+      <p>
         <strong>David Nelson:</strong> David Nelson is the director of University of Southern California’s Mixed Reality Lab in Los Angeles,
         a lab that focuses on exploring emerging technologies like virtual and augmented reality. Learn more about the <a href="https://mxr.ict.usc.edu/">Mixed Reality Lab.</a>
       </p>

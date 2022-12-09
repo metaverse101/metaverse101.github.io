@@ -2,6 +2,8 @@
   <section class="metaverse-entertainment">
     <metaverse-page>
       <div>
+        <h1>A technology of boundless opportunity in entertainment</h1>
+
         <p>
           The immersive, computer-generated world of the metaverse lends itself well to the fantastical nature of gaming.
           People venture into video games to experience what they cannot in real life, like fighting off zombies during
@@ -106,6 +108,11 @@
           From a competitive paintball-like game called “Tower Tag” to “OpenBrush,” which allows users to create all kinds
           of art, the center hopes to welcome people who may not have much experience with virtual reality into its boundless opportunities.
         </p>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/fPInSgMzBYo"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
 
         <p>
           “We know this is something that is special, it’s not an individual experience,” said William Ferraro, CEO of Key

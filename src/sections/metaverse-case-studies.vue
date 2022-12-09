@@ -5,7 +5,9 @@
         <h1>CASE STUDIES</h1>
         <div class="d-flex flex-row">
           <v-card class="ma-5" :width="cardWidth">
-            <img src="../../public/placeholder.png" />
+            <v-img src="../../public/interpersonal-relationships.jpeg"
+                   height="200px"
+                   cover/>
             <v-card-title>Interpersonal Relationships</v-card-title>
             <v-card-text>
               Technology has long connected people when they cannot physically be together - even before the coronavirus
@@ -20,8 +22,10 @@
           </v-card>
 
           <v-card class="ma-5" :width="cardWidth">
-            <img src="../../public/placeholder.png" />
-            <v-card-title>Health Case</v-card-title>
+            <v-img src="../../public/health-care.jpg"
+                 height="200px"
+                 cover/>
+            <v-card-title>Health Care</v-card-title>
             <v-card-text>
               A team of cardiologists in Palo Alto, California, created 3D virtual models of a patient’s heart,
               lungs and chest cavity they could examine from every angle to perform a difficult heart valve replacement.
@@ -34,8 +38,10 @@
           </v-card>
 
           <v-card class="ma-5" :width="cardWidth">
-            <img src="../../public/placeholder.png" />
-            <v-card-title>Entertainment, gaming and the sex industry</v-card-title>
+            <v-img src="../../public/entertainment.png"
+                   height="200px"
+                   cover/>
+            <v-card-title>Entertainment</v-card-title>
             <v-card-text>
               The fantasticalness of the gaming world led easily into the fantasticalness of the metaverse.
               Many early iterations of metaverse environments were created in the context of gaming, specifically
@@ -63,11 +69,6 @@ export default {
   data() {
     return {
       cardWidth: 450,
-      caseStudy: [
-          false,
-          false,
-          false,
-      ]
     }
   },
 

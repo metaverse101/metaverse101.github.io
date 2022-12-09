@@ -1,18 +1,22 @@
 <template>
   <section class="metaverse-about">
     <metaverse-page>
-      <div>
         <h1>About</h1>
-        <img class="metaverse-about__image mt-10" src="../../public/pavi-headshot.jpeg" />
-      </div>
 
-      <span class="metaverse-about__text">
-        <p><em>Author's Note</em></p>
+      <p><em>Author's Note</em></p>
+
+      <div class="d-flex align-content-center">
+        <img class="metaverse-about__image mt-5 pa-5" src="../../public/pavi-headshot.jpeg" />
+
+        <span class="metaverse-about__text mt-5 pa-5">
         <p>Anyone who knows me knows I am one of the more technology-averse members of Gen Z. I don’t use social media
           unless absolutely necessary, it took me an obscenely long time to transition from CDs to iTunes to streaming
           services and I still prefer wired earphones over bluetooth ones. This begs the question, ‘Why would I spend an
           entire semester delving into the metaverse, one of the most complex technological phenomenons of our time?’</p>
+      </span>
+      </div>
 
+      <span>
         <p>I suppose I wanted to challenge myself. My favorite thing about being a journalist is that my job is to learn.
           I learn from renowned leaders and experts and tell their stories. This topic arose after a conversation with a
           friend where we disagreed on the implications of the metaverse, which made me realize how polarizing it is - even
@@ -28,6 +32,7 @@
           will give you a foundational understanding of the concept we will continue hearing about over the next few years.</p>
         <p>Take your time; I hope you learn a little something.</p>
       </span>
+
 
       <span class="metaverse-about__text">
         <p><em>About the Project</em></p>
@@ -59,8 +64,6 @@ export default {
 .metaverse-about {
   &__image {
     height: 500px;
-    display: block;
-    margin: 10% auto;
   }
 
   &__text {

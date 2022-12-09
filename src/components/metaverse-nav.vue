@@ -17,7 +17,7 @@
             @mouseleave="dropdown = false">
           <p>Sections</p>
           <div class="metaverse-nav__dropdown" v-if="dropdown">
-            <router-link to="/101/">METAVERSE 101</router-link>
+            <router-link to="/101/">Metaverse 101</router-link>
             <router-link to="/interpersonal-relationships/">Case Study #1: Interpersonal Relationships</router-link>
             <router-link to="/health-care/">Case Study #2: Health Care</router-link>
             <router-link to="/entertainment/">Case Study #3: Gaming and Entertainment</router-link>

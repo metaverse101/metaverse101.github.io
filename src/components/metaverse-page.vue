@@ -1,5 +1,5 @@
 <template>
-  <div class="metaverse-page" data-aos="fade-right" data-aos-duration="2000">
+  <div class="metaverse-page" data-aos="fade-right" data-aos-duration="3000">
       <slot />
   </div>
 </template>
