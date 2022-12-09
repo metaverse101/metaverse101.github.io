@@ -5,9 +5,7 @@
         <h1>CASE STUDIES</h1>
         <div class="d-flex flex-row">
           <v-card class="ma-5" :width="cardWidth">
-            <v-img src="../../public/interpersonal-relationships.jpeg"
-                   height="200px"
-                   cover/>
+            <img class="metaverse-case-studies__image" src="../../public/interpersonal-relationships.jpeg"/>
             <v-card-title>Interpersonal Relationships</v-card-title>
             <v-card-text>
               Technology has long connected people when they cannot physically be together - even before the coronavirus
@@ -22,9 +20,7 @@
           </v-card>
 
           <v-card class="ma-5" :width="cardWidth">
-            <v-img src="../../public/health-care.jpg"
-                 height="200px"
-                 cover/>
+            <img class="metaverse-case-studies__image" src="../../public/health-care.jpg"/>
             <v-card-title>Health Care</v-card-title>
             <v-card-text>
               A team of cardiologists in Palo Alto, California, created 3D virtual models of a patient’s heart,
@@ -38,9 +34,7 @@
           </v-card>
 
           <v-card class="ma-5" :width="cardWidth">
-            <v-img src="../../public/entertainment.png"
-                   height="200px"
-                   cover/>
+            <img class="metaverse-case-studies__image" src="../../public/entertainment.png"/>
             <v-card-title>Entertainment</v-card-title>
             <v-card-text>
               The fantasticalness of the gaming world led easily into the fantasticalness of the metaverse.
@@ -75,6 +69,10 @@ export default {
 }
 </script>
 
-<style scoped>
-
+<style lang="scss" scoped>
+.metaverse-case-studies {
+    &__image {
+    height: 200px;
+  }
+}
 </style>
