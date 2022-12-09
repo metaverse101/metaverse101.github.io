@@ -21,7 +21,7 @@
             <router-link to="/interpersonal-relationships/">Case Study #1: Interpersonal Relationships</router-link>
             <router-link to="/health-care/">Case Study #2: Health Care</router-link>
             <router-link to="/entertainment/">Case Study #3: Gaming and Entertainment</router-link>
-            <router-link to="meet-the-experts/">Meet the Experts</router-link>
+            <router-link to="/meet-the-experts/">Meet the Experts</router-link>
           </div>
         </li>
         <li>

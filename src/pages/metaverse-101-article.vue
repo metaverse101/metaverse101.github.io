@@ -12,60 +12,64 @@
           </p>
 
           <p>
-            Chances are you have heard revolutionary statements as such - from flagship technology companies to your
-            gamer friend - about a system that will change the world: the metaverse. Colloquially, it is a computer-generated,
-            immersive world that people can navigate and interact with, designed to mimic the real world and beyond. The truth,
-            however, is far more complex.
+            Chances are you have heard revolutionary statements as such - from flagship technology companies to your gamer
+            friend - about a system that will change the world: the metaverse. Colloquially, it is a computer-generated,
+            immersive environment that people can navigate and interact with, designed to mimic the real world and beyond.
+            The truth, however, is far more complex.
           </p>
 
           <p>
-            Some people believe humans will be able to live - at least part of their lives - in the metaverse, working and
-            socializing as they do in the real world but with more creative freedom and without the physical limitations.
+            Some people believe humans will be able to live - at least part of their lives - in the metaverse, working
+            and socializing as they do typically, but with more creative freedom and without the physical limitations.
             Despite the widespread reach of its spectacle, however, the metaverse itself remains enigmatic. Both expansive
-            yet not fully realized, the metaverse raises many questions about its inner workings, inherent dangers and its
+            yet not fully realized, the metaverse raises many questions about its inner workings, inherent dangers and
             all-encompassing future.
           </p>
 
           <p>
-            “I like to say that the metaverse is a metaphor,” said David Nelson, director of the Mixed Reality Lab at the University of Southern California. “It is a placeholder for what we will do with immersive technology, how we will adopt it and how it will impact our lives and our culture. People are using this term without it really being defined yet and I think they know that because it is being defined as we discuss it.”
+            “I like to say that the metaverse is a metaphor,” said David Nelson, director of the Mixed Reality Lab at
+            the University of Southern California. “It is a placeholder for what we will do with immersive technology,
+            how we will adopt it and how it will impact our lives and our culture. People are using this term without
+            it really being defined yet and I think they know that because it is being defined as we discuss it.”
           </p>
 
           <p>
             It is hard to say what the metaverse is. But here is what the metaverse is not: it is not a conception nor a
             product of Meta Platforms. In 2021, when Facebook <a href="https://about.fb.com/news/2021/10/facebook-company-is-now-meta/">rebranded</a> as Meta Platforms and announced its renewed focus
-            on the metaverse, the futuristic system became popularly, solely and falsely associated with the social media
-            company.
+            on the metaverse, the futuristic system became popularly, solely and falsely associated with the social media company.
           </p>
 
           <p>
-            <a href="https://www.grandviewresearch.com/industry-analysis/metaverse-market-report">According</a> to Grand View Research, a global market research and consulting company based in the United States
-            and India, the global metaverse market was worth approximately $38.85 billion in 2021. By 2030, it is estimated
-            to be worth approximately $678.8 billion. Meta Platforms is one of several companies with a stake in the metaverse.
-            And this is all when the metaverse does not even exist yet.
+            <a href="https://www.grandviewresearch.com/industry-analysis/metaverse-market-report">According</a>  to Grand
+            View Research, a global market research and consulting company based in the United States and India, the global
+            metaverse market was worth approximately $38.85 billion in 2021. By 2030, it is estimated to be worth approximately
+            $678.8 billion. Meta Platforms is one of several companies with a stake in the metaverse. And this is all when the
+            metaverse does not even exist yet.
           </p>
 
-          <h2>History</h2>
+          <h2>A “real” world viewed through headsets?</h2>
 
           <p>
-            “The most recent Mark Zuckerberg iteration of the metaverse is a half-assed update of a very, very, very old
-            idea,” said Ethan Zuckerman, director of the Initiative for Digital Public Infrastructure at University of
-            Massachusetts, Amherst. Zuckerman has been a <a href="https://www.theatlantic.com/technology/archive/2021/10/facebook-metaverse-was-always-terrible/620546/">vocal critic</a> of modern metaverse developments. “Those ideas have
-            been hanging out there since the early nineties. A whole bunch of people tried building metaverses in the
-            late 1990s, way before the technology was ready for it.
+            “The most recent Mark Zuckerberg iteration of the metaverse is a half-assed update of a very, very, very old idea,”
+            said Ethan Zuckerman, director of the Initiative for Digital Public Infrastructure at University of Massachusetts,
+            Amherst. Zuckerman has been a  <a href="https://www.theatlantic.com/technology/archive/2021/10/facebook-metaverse-was-always-terrible/620546/">vocal critic</a>
+            of modern metaverse developments. “Those ideas have been hanging out there since the early ‘90s. A whole bunch
+            of people tried building metaverses in the late 1990s, way before the technology was ready for it.”
+
           </p>
 
           <p>
             The word “metaverse” made its first appearance in “Snow Crash,” a 1992 science fiction novel by Neal Stephenson,
             describing a digital world accessed through headsets. Metaverse ideas became mainstream fictional fodder, from
-            movies like “The Matrix” about humans trapped within a simulated reality, released in 1999, to “Ready Player One”
-            about humans escaping the real world to a virtual one, published as a book in 2011 and released as a movie in 2018.
+            movies like “The Matrix” about humans trapped within a simulated reality, released in 1999, to “Ready Player
+            One” about humans escaping the real world to a virtual one, published as a book in 2011 and released as a movie in 2018.
           </p>
 
           <p>
             Technology followed. 2003 saw the creation of “Second Life,” an online virtual world where people could interact
             as themselves or other custom beings in environments from a science laboratory to a movie theater. In 2014,
             Google released Google Cardboard, a virtual reality platform accessed through a cardboard viewer with lenses
-            which covers the user’s eyes. By inserting a smartphone into the viewer, the device simulates virtual reality
+            that covers the user’s eyes. By inserting a smartphone into the viewer, the device simulates virtual reality
             through compatible apps. It was followed by Facebook’s Oculus Quest, a wireless virtual reality headset that
             is immersive and panoramic, primarily used for entertainment, in 2019.
           </p>
@@ -85,17 +89,16 @@
 
           <p>
             Some of those keywords are already realized through existing technology. A “virtual world,” for example, is
-            a computer-generated environment - like a violent warzone or a busy restaurant - commonly present across
-            video games and animated movies, in both 3D and otherwise. Moreover, most people have experienced “synchronicity,”
+            a computer-generated environment - like a violent warzone or a busy restaurant - commonly present across video
+            games and animated movies, in both 3D and otherwise. Moreover, most people have experienced “synchronicity,”
             to some extent, by simultaneously interacting with other people through video conferencing platforms.
           </p>
 
           <p>
             The metaverse does not exist because of what Ball characterizes as “massively scaled” and “interoperable.” A
             massively scaled and interoperable metaverse would house infinite virtual worlds and allow people to move
-            smoothly between them, respectively. Today, some companies, like Meta Platforms and Microsoft,  have limited
-            virtual experiences and they typically each require their own technology, preventing the unlimited, seamless
-            experiences the metaverse demands.
+            smoothly between them. Today, some companies like Meta Platforms and Microsoft have limited virtual experiences.
+            They typically require their own technology, preventing the unlimited, seamless experiences the metaverse demands.
           </p>
 
           <p>
@@ -121,13 +124,12 @@
           </p>
 
           <p>
-            “I know that [virtual reality] and [augmented reality] are not the metaverse,” said Nelson. “However, I do
-            think it is a good correlation to look at that spectrum of immersive technologies as how we will interact
-            with the metaverse. There’s this spectrum of interactions with the technology and I think the metaverse
-            will mirror that or leverage that.”
+            “I know that [virtual reality] and [augmented reality] are not the metaverse,” said Nelson. “However, I do think
+            it is a good correlation to look at that spectrum of immersive technologies as how we will interact with the metaverse.
+            There’s this spectrum of interactions with the technology and I think the metaverse will mirror that or leverage that.”
           </p>
 
-          <h2>SUBHEADING</h2>
+          <h2>Wearables, an extension of the internet</h2>
 
           <p>
             Technology manipulates the senses to make these experiences feel real, primarily - but not exclusively - through
@@ -208,7 +210,7 @@
             rather than a metaverse.
           </p>
 
-          <h2>SUBHEADING</h2>
+          <h2>Risks and opportunities</h2>
 
           <p>
             The seemingly unlimited potential of the metaverse mirrors early perceptions of the internet; both capable of
@@ -220,10 +222,10 @@
 
           <p>
             “Any technology we have - technology as an interface to the world - should be handled with care,” said Rob Ray,
-            associate professor of design at California State University. “I think the risks are inherent no matter who wields
-            those technologies, on behalf of themselves or someone else, but I think the danger from that risk is magnified by
-            a corporation who is inattentive to the humans using it. Historically, the corporations who are currently wielding
-            extended reality technologies have not been so careful with their humans.”
+            associate professor of design at California State University. “I think the risks are inherent no matter who
+            wields those technologies, on behalf of themselves or someone else, but I think the danger from that risk is
+            magnified by a corporation who is inattentive to the humans using it. Historically, the corporations who are
+            currently wielding extended reality technologies have not been so careful with their humans.”
           </p>
 
           <p>
@@ -236,57 +238,56 @@
           <p>
             “I think people who are obsessed with this idea have a sense that reality is somehow wrong and that they’d
             like to build a better version of it,” said Zuckerman. “I think maybe there are people who don’t understand
-            how hard it is to build. Why is this an idea that seems to recur so often with tech people, why are tech
-            people so interested in creating an alternative reality to the one that they’re living in?”
+            how hard it is to build. Why is this an idea that seems to recur so often with tech people? Why are tech people
+            so interested in creating an alternative reality to the one that they’re living in?”
           </p>
 
           <p>
-            Some experts, on the other hand, urge even the most hesitant people to embrace the technology they believe
-            is coming, whether they like it or not.
+            Some experts, on the other hand, urge even the most hesitant people to embrace the technology they believe is coming, whether they like it or not.
           </p>
 
           <p>
             “This is like [asking] our ancestors, ‘Are you for or against fire?’” said Jane Thomason, a thought leader in
-            technology for social impact. “Don’t be ridiculous, you can’t stop this. [The metaverse] is happening. Like
-            fire, it is there, it is growing. People who go, ‘Hm, I’m not sure about this,’ they are so out of their league
-            to think that [their] thinking they don’t approve of it is going to stop it moving forward. The issue that we
-            need to be purposeful about is…how do we try and create some boundaries, some ethical principles, some frameworks.”
+            technology for social impact, based in Queensland, Australia. “Don’t be ridiculous, you can’t stop this. [The metaverse]
+            is happening. Like fire, it is there, it is growing. People who go, ‘Hm, I’m not sure about this,’ they are
+            so out of their league to think [the fact] they don’t approve of it is going to stop it moving forward. The
+            issue that we need to be purposeful about is…how do we try and create some boundaries, some ethical principles,
+            some frameworks.”
           </p>
 
           <p>
             Technology experts and advocates are getting ahead of the curve, since existing technology paints a detailed
-            enough future of the possible pitfalls. They are encouraging safety measures within metaverse environments
-            to shield against existing and forthcoming threats.
+            enough future of the possible pitfalls. They are encouraging safety measures within metaverse environments to
+            shield against existing and forthcoming threats.
           </p>
 
           <p>
-            In 2019, for example, Kavya Pearlman, a cybersecurity professional, founded the XR Safety Initiative, a global
-            standards developing nonprofit based in San Francisco that promotes privacy, safety, security and ethics in immersive
-            environments. This year, it is hosting its third annual Metaverse Safety Week, an international community conference
-            bringing together experts and stakeholders in the technological future. These initiatives keep people hopeful for a
-            future when the world can benefit from the metaverse while not capitulating to its perils in a way that heightens
-            the human relationship with the real world rather than replacing it.
+            2019, for example, saw the creation of the XR Safety Initiative, a global standards developing nonprofit based
+            in San Francisco that promotes privacy, safety, security and ethics in immersive environments. This year, it
+            is hosting its third annual Metaverse Safety Week, an international community conference bringing together
+            experts and stakeholders in the technological future. These initiatives keep people hopeful for a future when
+            the world can benefit from the metaverse while not capitulating to its perils in a way that heightens the human
+            relationship with the real world rather than replacing it.
           </p>
 
           <p>
-            “[It is important to help] people understand, in a balanced way, about the risks and opportunities and the
-            potential social utility of the metaverse and how it actually can help us create a better, fairer and more
-            open society,” said Thomason. “It’s not simple. I don’t think just because I am an optimist and I have good
-            values and ethics do I think we’re going to be successful, but we need to be talking about it, educating
-            people, working on it, looking for the good use cases, thinking about where the harm can come and thinking
-            in advance about mitigating the harm.”
+            “[It is important to help] people understand, in a balanced way, about the risks and opportunities and the potential
+            social utility of the metaverse and how it actually can help us create a better, fairer and more open society,”
+            said Thomason. “It’s not simple. I don’t think just because I am an optimist and I have good values and ethics
+            do I think we’re going to be successful, but we need to be talking about it, educating people, working on it,
+            looking for the good use cases, thinking about where the harm can come and thinking in advance about mitigating the harm.”
           </p>
 
           <p>
             Fully realized, the metaverse could fundamentally alter human dynamics, similar to how the internet or mobile
             phones already have, but at a greater level. Therefore, even if the metaverse is surrounded by extensive disagreement
-            - and is still conceptual - most experts agree there is enough conjecture to justify public interest and understanding
-            - especially if the metaverse becomes anywhere near as sweeping as some people predict it could.
+            - and is still conceptual - most experts agree there is enough conjecture to justify public interest and understanding,
+            especially if the metaverse becomes anywhere near as sweeping as some people predict it could.
           </p>
 
           <p>
-            “Who knows? I think that’s the open question,” said Nelson. “It would be like asking Thomas Edison when he wa
-            building the camera, ‘What’s your favorite genre of film?’ The medium is just being born now.”
+            “Who knows? I think that’s the open question,” said Nelson. “It would be like asking Thomas Edison when he
+            was building the camera, ‘What’s your favorite genre of film?’ The medium is just being born now.”
           </p>
         </span>
       </div>
