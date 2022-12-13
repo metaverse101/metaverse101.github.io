@@ -1,6 +1,6 @@
 {
-  "name": "metaverse",
-  "version": "0.0.0",
+  "name": "metaverse101",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vite preview",

@@ -8,9 +8,9 @@ import { resolve } from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base: '/',
-  plugins: [
-      vue(),
-      vuetify({ autoImport: true }),
-  ],
-})
+      base: '/',
+      plugins: [
+          vue(),
+          vuetify({ autoImport: true }),
+      ],
+    })
